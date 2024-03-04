@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D1B555BE-15A0-4F85-A723-B6545C13D4E4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Struct_Sealed_Enum_Nullable/Services/CalculatorService.cs">
+    <Files>
+      <File FileName="Struct_Sealed_Enum_Nullable/Program.cs" Line="33" Column="27" />
+      <File FileName="Struct_Sealed_Enum_Nullable/Helpers/BaseExtensions.cs" Line="30" Column="21" />
+      <File FileName="Struct_Sealed_Enum_Nullable/Services/CalculatorService.cs" Line="25" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Struct_Sealed_Enum_Nullable" expanded="True">
+            <Node name="Struct_Sealed_Enum_Nullable" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CalculatorService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Struct__Sealed__Enum__Nullable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
